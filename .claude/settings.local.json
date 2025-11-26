@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p src/awiesm/pycmor_helpers tests docs)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
